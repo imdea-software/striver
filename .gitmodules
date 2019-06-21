@@ -1,0 +1,8 @@
+[submodule "striver-past"]
+	path = striver-past
+	url = https://github.com/imdea-software/striver-past
+	branch = master
+[submodule "striver-full"]
+	path = striver-full
+	url = https://github.com/imdea-software/striver-full
+	branch = master
